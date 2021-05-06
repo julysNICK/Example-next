@@ -7,4 +7,4 @@ describe('<CloneMe />', () => {
     renderTheme(<CloneMe />);
     expect(screen.getByRole('heading')).toBeInTheDocument();
   });
-})
+});

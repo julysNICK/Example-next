@@ -1,8 +1,18 @@
+This repository will serve as a base for other nextjs projects because with next you can run the following command
+
+First, run the development server:
+
+```bash
+npx create-next-app --example https://github.com/julysNICK/Example-next
+# or
+yarn create next-app create-next-app -e https://github.com/julysNICK/Example-next
+```
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
-First, run the development server:
+second, run the development server:
 
 ```bash
 npm run dev
