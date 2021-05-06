@@ -1,4 +1,4 @@
-
+const a = 'new const';
 import * as Styled from './styles';
 
 export type CloneMeProps = {
